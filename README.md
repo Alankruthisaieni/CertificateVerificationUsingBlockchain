@@ -6,7 +6,7 @@
 
 **Results:**
 
-<br><br>
+<br>
 
 ![CertUpload](https://github.com/Alankruthisaieni/CertificateVerificationUsingBlockchain/assets/67535751/1b6f8305-43bd-483b-9cf8-012234a98bc4)
 <p align="center">Uploading certificates to IPFS</p><br>
