@@ -3,7 +3,7 @@
 :large_orange_diamond: The Interplanetary File System (IPFS) will store the college certificate after the university enters the student's roll number and uploads it. A hash that uniquely identifies that block is created and saved on IPFS and blockchain. The college certificate can now be retrieved and verified by anyone by supplying a special hash value and the student's roll number, such as a student, recruiter, or administrator. In the event that the produced hash value is forgotten, the certificate can also be validated by supplying the certificate and the student's roll number.
 
 <br>
-<b style="font-size: 20;">Results:</b><br><br>
+<b style="font-size: 20;"><font size="20">Results:</font></b><br><br>
 
 ![CertUpload](https://github.com/Alankruthisaieni/CertificateVerificationUsingBlockchain/assets/67535751/1b6f8305-43bd-483b-9cf8-012234a98bc4)
 <p align="center">Uploading certificates to IPFS</p><br>
