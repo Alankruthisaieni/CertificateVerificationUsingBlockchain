@@ -1,0 +1,88 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "id",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "ipfsHash",
+						"type": "string"
+					}
+				],
+				"name": "sendHash",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "id",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "hashToVerify",
+						"type": "string"
+					}
+				],
+				"name": "verifyDocument",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts\\StoreHash.sol": "StoreHash"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts\\StoreHash.sol": {
+			"keccak256": "0xa05fa7be6ade8a3ccb2515deaa9b00dcf023721d896e1e6aed64c45ed029a06e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ffde993dda5276f11c8cc52a19d6625912ec84c3e27ae7a4424fa3f33e8632e4",
+				"dweb:/ipfs/Qmc9g3QoNxRWKGPnR4h8foKZVSZmTF31SooHneFzSneWp2"
+			]
+		}
+	},
+	"version": 1
+}
